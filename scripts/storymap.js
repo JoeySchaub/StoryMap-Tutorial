@@ -267,9 +267,9 @@ if (i == 10)
 {
 var compareHTML =
 '<div class="image-compare">' +
-'<img src="media/Post_RGB.png" alt="Nach dem Hochwasser">' +
+'<img src="media/CM_Bilder/Post_RGB.png" alt="Nach dem Hochwasser">' +
 '<div class="image-compare-after">' +
-'<img src="media/Pre_RGB.png" alt="Vor dem Hochwasser">' +
+'<img src="media/CM_Bilder/Pre_RGB.png" alt="Vor dem Hochwasser">' +
 '</div>' +
 '</div>' +
 '<input class="image-compare-slider" type="range" min="0" max="100" 
